@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.venv/
+runs/
+videos/
+wandb/
+.DS_Store
+*.log
